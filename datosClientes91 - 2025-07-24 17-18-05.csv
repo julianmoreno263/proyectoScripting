@@ -1,0 +1,37 @@
+nombre,ciudad,direccion,email,telefono,ip,cantidad,monto,modalidad,estado,timestamp
+Flor Velasco Pérez,Natagaima,"Cl. 107L # 4A-1 Sur
+132263
+Cicuco, Bolívar",alberto06@example.com,+573024323742,55,88,2047.14,fraccionada,fallido,2025-01-11 01:04:11.219658
+Pablo Cristhian González,Pasca,"Calle 3Z # 49-7 Este
+238926
+San Carlos, Córdoba",leonmorales@example.com,3176374060,643,31,1248.73,fraccionada,exitoso,2025-04-04 15:45:21.055083
+Marina Amanda Castañeda Manrique,Aguada,"Cl. 7Y # 91G-79 Sur
+Local 29
+667146
+Quinchía, Risaralda",jose51@example.com,606 361 96 25,318,16,2402.59,fraccionada,fallido,2025-07-03 12:29:03.936695
+Camilo Martínez,Puerto Asís,"Avenida calle 79 # 78-69 Este
+Oficina 4
+664551
+La Virginia, Risaralda",cecilia39@example.org,(+57) 323 367 65 15,960,12,649.64,fraccionada,exitoso,2025-02-14 13:20:31.576880
+Rubén Correa,Nemocón,"Calle 41E Bis B # 97-9 Este
+Local 44
+252430
+Granada, Cundinamarca",alexis64@example.com,3105239603,980,66,761.25,fraccionada,exitoso,2025-01-13 09:53:16.803423
+Abel Villamizar Pérez,Necoclí,"Calle 32 # 2N-96
+Etapa 2 apartamento 4
+999545
+Puerto Carreño",yohanaramos@example.org,6044292774,150,10,3869.67,fraccionada,fallido,2025-06-27 21:34:32.963485
+Esteban Nicolás López Daza,Arauca,"Cr. 58 # 22-1 Este
+Bodega 7
+198983
+Caloto, Cauca",pedro57@example.org,57 326 110 07 36,2,61,3420.26,completa,exitoso,2025-04-27 15:10:53.711237
+Linda Adriana Toro,Supía,"Transversal 44 # 17-33
+055687
+Urrao, Antioquia",antoniosanchez@example.net,+573003665547,472,48,1256.39,fraccionada,exitoso,2025-02-06 06:05:39.015152
+Antonio Alberto Barrera,Sampués,"Av. calle 18 # 28-88
+Casa 16
+254084
+Choachí, Cundinamarca",reyesluis@example.com,576014682025,679,33,517.94,fraccionada,fallido,2025-02-14 21:06:28.841145
+Milton Jorge Ortiz Flórez,Chigorodó,"Carrera 87 # 86-69 Sur
+253548
+Villagómez, Cundinamarca",blancaperez@example.net,+573024791789,557,46,3046.33,fraccionada,exitoso,2025-02-28 01:24:16.120854

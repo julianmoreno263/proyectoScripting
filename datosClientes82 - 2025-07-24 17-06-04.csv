@@ -1,0 +1,38 @@
+nombre,ciudad,direccion,email,telefono,ip,cantidad,monto,modalidad,estado,timestamp
+Patricia Polo Galeano,Fuente de Oro,"Calle 22 # 8-8 Este
+Casa 48
+761595
+Roldanillo, Valle del Cauca",maria30@example.net,(+57) 326 881 65 34,395,10,3998.17,completa,exitoso,2025-01-08 09:58:36.162380
+Antonio Morales,Santa Bárbara,"Carrera 134 # 5-3 Este
+Torre 3 apartamento 5
+666418
+Guática, Risaralda",ceciliasuarez@example.org,57 319 740 59 04,902,16,2537.28,fraccionada,exitoso,2025-06-17 14:11:18.314572
+Lucía María Cruz Bedoya,Cáceres,"Carrera 38 # 37-3
+683778
+San Joaquín, Santander",alberto92@example.com,2414158,343,58,1609.31,completa,exitoso,2025-04-10 02:16:15.272264
+Nubia Becerra,Ancuya,"Calle 6ª # 6-3
+Apto. 84
+735636
+Melgar, Tolima",julianmoreno@example.net,328 141 85 67,977,74,1725.28,completa,fallido,2025-03-08 11:05:18.357063
+Jesús Luis Salazar,Medellín,"Calle 149J Este # 1-74 Este
+Apartamento 832
+154966
+Paipa, Boyacá",tatianagonzalez@example.com,57 307 915 96 32,239,49,3655.78,completa,exitoso,2025-04-04 12:57:36.101200
+María Díaz Jaramillo,Uribe,"Calle 61 # 46-4 Este
+Bodega 8
+150737
+Sutatenza, Boyacá",tovarrosa@example.com,(+57)3206681140,682,15,1306.46,fraccionada,exitoso,2025-01-03 05:10:51.844985
+Verónica María Cerón,Alvarado,"Av. carrera 84 # 3C-5 Este
+Casa 50
+059411
+Angostura, Antioquia",carolinacabrera@example.org,57 302 516 68 93,256,17,2142.47,fraccionada,fallido,2025-07-09 22:56:43.366683
+Elena Martínez García,San Calixto,"Calle 94 # 47-8 Sur
+527175
+Los Andes, Nariño",andradeandrea@example.com,+573074949809,622,46,289.30,fraccionada,exitoso,2025-04-03 04:28:40.347780
+Jhon Yair Rodríguez,Granada,"Carrera 94 # 70R-71 Este
+Bodega 2
+189843
+Cartagena del Chairá, Caquetá",martinezerick@example.net,573159795869,665,86,2669.82,fraccionada,exitoso,2025-04-23 23:51:52.535755
+Isabel Beltrán Sánchez,Cumaral,"Carrera 56 # 7H-18
+701807
+Caimito, Sucre",stella88@example.net,(+57) 320 133 57 45,934,60,1386.82,fraccionada,fallido,2025-03-03 06:03:15.257922

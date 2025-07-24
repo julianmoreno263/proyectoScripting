@@ -1,0 +1,37 @@
+,Nombre,Ciudad,Dirección,Email,Teléfono,IP de compra,Cantidad,Monto total compra,Modalidad pago,Estado del pago,Timestamp de transacción
+0,Andrés Sánchez Castillo,Yumbo,"Calle 115 # 68E-29 Sur
+197855
+López de Micay, Cauca",ospinavanessa@example.org,(+57)3166030216,191,61,2892.32,completa,fallido,2025-05-27 06:28:14.830225
+1,Ángel López Hernández,Plato,"Calle 7Z # 79K-62 Este
+Local 27
+209633
+San Diego, Cesar",marinanderson@example.net,57 310 991 81 44,196,75,2352.81,completa,exitoso,2025-06-01 07:58:31.873093
+2,Danny Jimmy Martínez Figueroa,Puerto Caicedo,"Diagonal 111X # 49S-9
+055461
+Carolina, Antioquia",sacevedo@example.org,01 8007 373 348,643,22,2739.43,fraccionada,fallido,2025-07-22 07:06:51.244875
+3,Dario José Álvarez Giraldo,Tello,"Cr. 66 # 18-9 Este
+709954
+Colosó, Sucre",martinezhernando@example.org,(+57) 315 926 30 31,189,9,415.85,completa,fallido,2025-06-10 04:00:02.515245
+4,Emerson Fernando Moreno,Belén,"Cr. 17K # 9-7 Este
+Bodega 5
+134182
+San Fernando, Bolívar",enriqueospina@example.com,(+57)3063916135,280,39,3178.36,fraccionada,exitoso,2025-06-18 09:38:55.228895
+5,Lucy Díaz Londoño,San Carlos,"Transversal 22 # 3Z-2 Sur
+Etapa 9 apartamento 679
+959691
+Calamar, Guaviare",sandra97@example.com,324 665 93 96,322,8,1428.24,completa,exitoso,2025-04-13 16:51:26.207778
+6,Johana Luz Sánchez Ortiz,Tierralta,"Diagonal 111W Bis P # 8-1
+Apartamento 848
+256981
+Carmen de Carupa, Cundinamarca",oswaldo98@example.net,606 307 76 94,86,43,4852.76,completa,fallido,2025-07-09 10:58:52.334872
+7,Andrés Javier Cárdenas García,San José del Fragua,"Calle 9ª # 6-71
+447944
+Albania, La Guajira",nilson99@example.com,327 153 00 55,850,36,4081.94,completa,fallido,2025-04-27 10:53:26.536606
+8,Luz Luz Parra,Sapuyes,"Calle 80 # 12-12 Sur
+Local 6
+152084
+Sogamoso, Boyacá",alvaradoluis@example.org,294 27 53,93,32,1652.26,completa,exitoso,2025-01-22 07:06:49.925798
+9,Luz Bustos,Jordán,"Av. Bolívar # 6I-99 Sur
+Torre 9 apartamento 5
+853296
+Nunchía, Casanare",andrea89@example.org,+576076507022,928,13,2209.93,completa,exitoso,2025-06-03 12:48:23.329923

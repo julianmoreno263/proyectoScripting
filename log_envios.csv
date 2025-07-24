@@ -1,0 +1,3 @@
+factura,destinatario,estado
+factura_1234.pdf,cliente@correo.com,exitoso
+factura_5678.pdf,otro@correo.com,exitoso
